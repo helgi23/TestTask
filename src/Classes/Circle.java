@@ -16,7 +16,7 @@ public class Circle implements IFigure {
 
 	@Override
 	public int getArea() {
-		return (int) 3.14 * radius * radius;
+		return (int) 3.142 * radius * radius;
 	}
 
 	@Override
